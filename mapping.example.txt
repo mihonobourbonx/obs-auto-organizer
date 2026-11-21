@@ -1,0 +1,43 @@
+# 前台进程 exe 名（不含 .exe）= 文件夹名
+# 匹配规则：不区分大小写、子串匹配、首个命中即返回 —— 长关键词要放前面
+# 桌面/任务栏/开始菜单这类系统进程会被归到 Desktop，不用写
+
+darkhours = Dark Hours
+avatar = Avatar Frontiers of Pandora
+7daystodie = 7 Days to Die
+left4dead2 = Left 4 Dead 2
+overwatch = Overwatch 2
+cs2 = Counter-Strike 2
+palworld = Palworld
+riseofthetombraider = Rise of the Tomb Raider
+rottr = Rise of the Tomb Raider
+outlast = The Outlast Trials
+superbattlegolf = Super Battle Golf
+lasttrain = LastTrain
+valheim = Valheim
+minecraft = Minecraft
+terraria = Terraria
+stardew = Stardew Valley
+apex = Apex Legends
+chrome = Google Chrome
+msedge = Microsoft Edge
+firefox = Firefox
+weixin = 微信
+wechat = 微信
+qqnt = QQ
+qqmusic = QQ音乐
+tim = TIM
+oopz = oopz
+bilibili = 哔哩哔哩
+douyin = 抖音
+deepseek = DeepSeek Harness
+photoshop = Photoshop
+premiere = Premiere Pro
+aftereffects = After Effects
+jianying = 剪映
+potplayer = PotPlayer
+vlc = VLC
+obs64 = OBS
+notepad = 记事本
+repo = R.E.P.O.
+code = VS Code
